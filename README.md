@@ -5,7 +5,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gabo.reyno)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabo.reyno@gmail.com)
 
-I'm an **engineer pursuing an M.S. in Data Science **, with **5+ years of industry experience** in business analytics, running customer experiments and applying causal inference to drive real decisions.
+I'm an **engineer pursuing an M.S. in Data Science**, with **5+ years of industry experience** in business analytics, running customer experiments and applying causal inference to drive real decisions.
 This profile collects personal and academic projects across machine learning, statistics, and robotics.
 
 ---
